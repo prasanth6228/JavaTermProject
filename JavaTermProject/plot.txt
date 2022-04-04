@@ -1,0 +1,9 @@
+
+plotId:plt-1,
+plotName:324234,
+=====street:324234,
+plotPrice:324234.0,
+city:32423,
+zipCode:34234,
+plotSatus:null,
+plotProvince:324234,

@@ -1,0 +1,63 @@
+plotId:plt-1,
+plotName:100 A,
+plotPrice:8274324.0,
+plotSatus:null,
+plotProvince:ON,
+city:Toronto,
+street:Laurel,
+zipCode:M1K 3J9
+=========================================
+plotId:plt-2,
+plotName:24A,
+plotPrice:89374.0,
+plotSatus:null,
+plotProvince:Quebec,
+city:Montreal,
+street:Jarvis Street,
+zipCode:M1T 21J
+=========================================
+plotId:plt-8,
+plotName:56 C,
+plotPrice:8937491.0,
+plotSatus:null,
+plotProvince:Nova Scotia,
+city:NV,
+street:greenville park,
+zipCode:73074
+=========================================
+plotId:plt-3,
+plotName:185 C,
+plotPrice:928174.0,
+plotSatus:null,
+plotProvince:ON,
+city:Toronto,
+street:Bellamy Road,
+zipCode:M14 27K
+=========================================
+plotId:plt-9,
+plotName:77B,
+plotPrice:8948932.0,
+plotSatus:null,
+plotProvince:New Brunswik,
+city:Bathurst,
+street:Kimran square,
+zipCode:M12J21,
+=========================================
+plotId:plt-10,
+plotName:987,
+plotPrice:9834334.0,
+plotSatus:null,
+plotProvince:ON,
+city:Toronto,
+street:Blue Lane Avenue,
+zipCode:M037J9,
+=========================================
+plotId:plt-11,
+plotName:87 B,
+plotPrice:89324.0,
+plotSatus:null,
+plotProvince:ON,
+city:Toronto,
+street:Blue Jays way,
+zipCode:M98 2GH,
+=========================================
